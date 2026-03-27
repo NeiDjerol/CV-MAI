@@ -1,0 +1,114 @@
+{
+    "cameras": [
+        {
+            "camera_matrix": [
+                [
+                    619.2269817913359,
+                    0.0,
+                    324.7589345631433
+                ],
+                [
+                    0.0,
+                    621.5030191908138,
+                    253.38108876231195
+                ],
+                [
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "distortion_coefficients": [
+                [
+                    0.090490236592371,
+                    -0.19637051090566054,
+                    0.00551976298478835,
+                    -0.0030478172836580987,
+                    0.06992645867705588
+                ]
+            ],
+            "mean_error": 0.03551669335493306,
+            "image_size": [
+                640,
+                480
+            ],
+            "num_images": 60,
+            "pattern_size": [
+                9,
+                6
+            ],
+            "square_size": 0.025,
+            "successful_images": [
+                "./data\\1.jpeg",
+                "./data\\10.jpeg",
+                "./data\\11.jpeg",
+                "./data\\12.jpeg",
+                "./data\\13.jpeg",
+                "./data\\14.jpeg",
+                "./data\\15.jpeg",
+                "./data\\16.jpeg",
+                "./data\\17.jpeg",
+                "./data\\18.jpeg",
+                "./data\\19.jpeg",
+                "./data\\2.jpeg",
+                "./data\\20.jpeg",
+                "./data\\21.jpeg",
+                "./data\\22.jpeg",
+                "./data\\23.jpeg",
+                "./data\\24.jpeg",
+                "./data\\25.jpeg",
+                "./data\\26.jpeg",
+                "./data\\27.jpeg",
+                "./data\\28.jpeg",
+                "./data\\29.jpeg",
+                "./data\\3.jpeg",
+                "./data\\30.jpeg",
+                "./data\\4.jpeg",
+                "./data\\5.jpeg",
+                "./data\\6.jpeg",
+                "./data\\7.jpeg",
+                "./data\\8.jpeg",
+                "./data\\9.jpeg",
+                "./data\\1.jpeg",
+                "./data\\10.jpeg",
+                "./data\\11.jpeg",
+                "./data\\12.jpeg",
+                "./data\\13.jpeg",
+                "./data\\14.jpeg",
+                "./data\\15.jpeg",
+                "./data\\16.jpeg",
+                "./data\\17.jpeg",
+                "./data\\18.jpeg",
+                "./data\\19.jpeg",
+                "./data\\2.jpeg",
+                "./data\\20.jpeg",
+                "./data\\21.jpeg",
+                "./data\\22.jpeg",
+                "./data\\23.jpeg",
+                "./data\\24.jpeg",
+                "./data\\25.jpeg",
+                "./data\\26.jpeg",
+                "./data\\27.jpeg",
+                "./data\\28.jpeg",
+                "./data\\29.jpeg",
+                "./data\\3.jpeg",
+                "./data\\30.jpeg",
+                "./data\\4.jpeg",
+                "./data\\5.jpeg",
+                "./data\\6.jpeg",
+                "./data\\7.jpeg",
+                "./data\\8.jpeg",
+                "./data\\9.jpeg"
+            ]
+        }
+    ],
+    "board": {
+        "type": "chess",
+        "pattern_size": [
+            9,
+            6
+        ],
+        "square_size": 0.025
+    },
+    "calibration_date": "27-03-2026_23-04-00"
+}
